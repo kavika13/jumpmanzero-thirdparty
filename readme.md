@@ -1,10 +1,10 @@
-#[Jumpman Zero](http://www.jumpmanzero.com) - Third Party Components
+# [Jumpman Zero](http://www.jumpmanzero.com) - Third Party Components
 
 See [the `jumpmanzero` repository](https://github.com/kavika13/jumpmanzero) for more information about the Jumpman Zero project, and for non-broken home page links.
 
 ---
 
-##About this repository
+## About this repository
 
 This is the third-party installers/sources repository for [the main `jumpmanzero` repository](https://github.com/kavika13/jumpmanzero). Specific versions of SDKs needed to build the project are stored here.
 
